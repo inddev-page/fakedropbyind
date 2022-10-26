@@ -1,2 +1,3 @@
 # fakedropbyind
-this plugin for giving fake drop to players after game
+You need sort into folders : fakedropbyind.smx - plugins
+fakedropbyind.sp - scripting
