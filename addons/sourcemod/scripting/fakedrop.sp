@@ -1,7 +1,7 @@
 #include <cstrike>
-#define PLUGIN_AUTHOR "IND "
+#define PLUGIN_AUTHOR "IND"
 #define PLUGIN_VERSION "0.1"
-#define AUTHOR_URL "https://github.com/ind333"
+#define AUTHOR_URL "https://github.com/inddev-page"
 
 public void OnPluginStart()
 {
@@ -47,13 +47,13 @@ public void GiveDrop(int client)
 
     /*entity_updates = pb.AddMessage("entity_updates");
 
-    itemId[0] = 444;
-    itemId[1] = 444;
+    itemId[0] = 51;
+    itemId[1] = 51;
 
     entity_updates.SetInt("accountid", GetSteamAccountID(client));
     entity_updates.SetInt64("itemid", itemId);
     entity_updates.SetInt("defindex", CS_WeaponIDToItemDefIndex(CSWeapon_AWP));
-    entity_updates.SetInt("paintindex", 344); // 344 - AWP | Dragon Lore
+    entity_updates.SetInt("paintindex", 51); // 344 - AWP | Lightning Strike
     entity_updates.SetInt("rarity", 6);
 
     // ==================================================
@@ -66,7 +66,7 @@ public void GiveDrop(int client)
     entity_updates.SetInt("accountid", GetSteamAccountID(client));
     entity_updates.SetInt64("itemid", itemId);
     entity_updates.SetInt("defindex", CS_WeaponIDToItemDefIndex(CSWeapon_M4A1));
-    entity_updates.SetInt("paintindex", 309); // 309 - M4A4 | Howl
+    entity_updates.SetInt("paintindex", 309); // 309 - M4A4 | HOWL 
     entity_updates.SetInt("rarity", 6);*/
 
     EndMessage();
