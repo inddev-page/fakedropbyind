@@ -1,6 +1,6 @@
 #include <cstrike>
 #define PLUGIN_AUTHOR "IND"
-#define PLUGIN_VERSION "0.1"
+#define PLUGIN_VERSION "0.2"
 #define AUTHOR_URL "https://github.com/inddev-page"
 
 public void OnPluginStart()
